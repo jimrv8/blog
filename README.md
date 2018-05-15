@@ -1,6 +1,9 @@
+# Ruby Blog
+This is a blog built with Ruby on Rails. It has CRUD functionality with an SQL Lite Database.
+
 ## Requirements
 
-Ruby on Rails, SQ LiteL installed and an IDE like VS code, Sublime Text or similar. 
+Ruby on Rails, SQL Lite installed and an IDE like VS code, Sublime Text or similar. 
 
 
 
