@@ -1,6 +1,6 @@
 ## Requirements
 
-Ruby on Rails, PostgreSQL installed and an IDE like VS code, Sublime Text or similar. 
+Ruby on Rails, SQ LiteL installed and an IDE like VS code, Sublime Text or similar. 
 
 
 
