@@ -17,7 +17,7 @@ Ruby on Rails, SQL Lite installed and an IDE like VS code, Sublime Text or simil
 ```
 bundle install
 ```
-3. Create the Database by typing in the terminal: 
+3. Create a Database by typing in the terminal: 
 ```
 rails db:migrate
 ```
