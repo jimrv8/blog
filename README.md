@@ -3,7 +3,7 @@ This is a blog built with Ruby on Rails. It has CRUD functionality with an SQL L
 
 ## Requirements
 
-Ruby on Rails, SQL Lite installed and an IDE like VS code, Sublime Text or similar. 
+Ruby on Rails 5, SQL Lite installed and an IDE like VS code, Sublime Text or VS Code. 
 
 
 
