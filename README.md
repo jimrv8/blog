@@ -33,6 +33,6 @@ rails s
 ```
 http://localhost:3000
 ```
-7. Register as a new user and start uploading books.
+7. Register as a new user and start uploading blog posts.
 
 8. Have fun.
